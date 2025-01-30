@@ -49,7 +49,7 @@ In this part, we will try out a simple **centralized workflow**, where developer
 
 ## Forking workflow
 
-In this part, we will practice the **forking workflow**, also known as the **open source workflow**. Developers following this type of workflow interact with at least 3 different copies of a repository: the original **remote** repository that the developer ultimately intends to contribute to; a remote **clone** of that official repositor, known as a "`fork`"; and a local clone of the fork, where the developer makes changes.
+In this part, we will practice the **forking workflow**, also known as the **open source workflow**. Developers following this type of workflow interact with at least 3 different copies of a repository: the original **remote** repository that the developer ultimately intends to contribute to; a remote **clone** of that official repository, known as a "`fork`"; and a local clone of the fork, where the developer makes changes.
 
 ### Find another repository to work with
 
