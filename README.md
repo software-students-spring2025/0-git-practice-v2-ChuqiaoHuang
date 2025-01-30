@@ -9,3 +9,6 @@ Moreover, the article underscores the importance of continuous learning for deve
 
 ---
 **Created by**: Chuqiao Huang
+
+**Comment by Matthew Cheng (mc9283) (mattchng)**
+I also found this article interesting; I actually chose a really similar article! I totally agree, that developers should learn to acquire new skills in budding areas, but also learn to utilize AI as just a highly effective tool.
