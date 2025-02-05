@@ -8,7 +8,7 @@ I found this article interesting because it discusses how artificial intelligenc
 Moreover, the article underscores the importance of continuous learning for developers. It suggests that developers should focus on acquiring new skills in areas such as machine learning, data science and neural network in order to stay relevant in this industry which is rapidly integrating AI technology. In such way, software engineers can utilize AI as a tool rather than seeing it as a threat to their career.
 
 ---
-**Created by: Chuqiao Huang (ch3807)**
+**Created by: Chuqiao Huang(ch3807)**
 
 **Comment by Matthew Cheng (mc9283) (mattchng)**
 I also found this article interesting; I actually chose a really similar article! I totally agree, that developers should learn to acquire new skills in budding areas, but also learn to utilize AI as just a highly effective tool.
